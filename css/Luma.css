@@ -35,48 +35,48 @@ body {
   font-size: 20px;
   font-style: thick;
 }
-.xmas {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#xmas {
+  background: url("https://i.imgur.com/tO7NqvK.jpg");
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
   background-color: black;
   position: relative;
 }
-.choc {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#choc {
+  background: url("https://i.imgur.com/wQbAPlR.jpg");
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
   background-color: black;
   position: relative;
 }
-.violet {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#violet {
+  background: url("https://i.imgur.com/YvvQsvx.jpg");
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
   background-color: black;
   position: relative;
 }
-.love {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#love {
+  background: url("https://i.imgur.com/UvIml7W.jpg");
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
   background-color: black;
   position: relative;
 }
-.muffin {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#muffin {
+  background: url("https://i.imgur.com/xM8rQ6l.jpg");
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
   background-color: black;
   position: relative;
 }
-.vanilla {
-  background: url("https://i.imgur.com/Lp4Ciff.jpg");
+#vanilla {
+  background: url("https://i.imgur.com/dNiTLNn.jpg");
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -85,9 +85,9 @@ body {
 }
 p {
   color: white;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   bottom: 0;
   font-family: 'Coming Soon', cursive;
-  font-size: 20px;
+  font-size: 17px;
 }
