@@ -37,6 +37,7 @@ body {
 }
 #xmas {
   background: url("https://i.imgur.com/tO7NqvK.jpg");
+  width: 100%;
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -45,6 +46,7 @@ body {
 }
 #choc {
   background: url("https://i.imgur.com/wQbAPlR.jpg");
+  width: 100%;
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -53,6 +55,7 @@ body {
 }
 #violet {
   background: url("https://i.imgur.com/YvvQsvx.jpg");
+  width: 100%;
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -61,6 +64,7 @@ body {
 }
 #love {
   background: url("https://i.imgur.com/UvIml7W.jpg");
+  width: 100%;
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -69,6 +73,7 @@ body {
 }
 #muffin {
   background: url("https://i.imgur.com/xM8rQ6l.jpg");
+  width: 100%;
   margin: 10px auto;
   background-size: cover;
   padding-bottom: 250px;
@@ -77,6 +82,7 @@ body {
 }
 #vanilla {
   background: url("https://i.imgur.com/dNiTLNn.jpg");
+  width: 100%;
   margin: 0 auto;
   background-size: cover;
   padding-bottom: 250px;
