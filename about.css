@@ -27,3 +27,21 @@ body {
   font-size: 20px;
   font-style: thick;
 }
+.col-md-12 {
+  padding: 10px;
+}
+#about1 {
+  background: rgba(85,107,47,0.6);
+}
+#hello {
+  font-size: 25px;
+  font-family: 'Coming Soon', cursive;
+}
+#about {
+  font-size: 20px;
+  font-family: 'Coming Soon', cursive;
+}
+#aboutpic {
+  max-width: 311px;
+  max-height: auto;
+}
