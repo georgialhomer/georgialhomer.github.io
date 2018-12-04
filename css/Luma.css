@@ -35,6 +35,9 @@ body {
   font-size: 20px;
   font-style: thick;
 }
+#searchbutton {
+  padding: 10px;
+}
 #xmas {
   background: url("https://i.imgur.com/tO7NqvK.jpg");
   margin: 10px auto;
