@@ -17,7 +17,7 @@ h3 {
   bottom: 0;
 }
 #logo {
-  width: 125px;
+  max-width: 125px;
   height: auto;
   padding: 5px;
 }
