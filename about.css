@@ -48,7 +48,12 @@ body {
   max-width: 311px;
   max-height: auto;
 }
+#contactus {
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 35px;
+}
 .btn-facebook {
+    margin: 25px 0 0 0;
 	  background: #3B5998;
 	  border-radius: 0;
 	  color: #fff;
@@ -64,6 +69,7 @@ body {
 	  color: #fff;
 	}
 .btn-twitter {
+    margin: 25px 0 0 0;
 	  background: #00ACEE;
 	  border-radius: 0;
 	  color: #fff;
@@ -78,3 +84,13 @@ body {
 	  background: #0075a2;
 	  color: #fff;
 	}
+  #email {
+    font-family: 'Coming Soon', cursive;
+    font-size: 20px;
+  }
+  #enews {
+    font-family: 'Coming Soon', cursive;
+  }
+  #submit {
+    font-family: 'Coming Soon', cursive;
+  }
